@@ -1,0 +1,21 @@
+{
+  "name": "restapi-shoppingcart",
+  "version": "1.0.0",
+  "description": "A Node JS RESTful API Project (Build a simple Shooping Cart API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api",
+    "(MERN",
+    "Application)"
+  ],
+  "author": "Shashank Chikattimala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
